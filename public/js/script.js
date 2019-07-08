@@ -37,7 +37,7 @@ window.onload = function () {
 		}
 	}
 	function deal(dds, n) {
-		var speed = 100;
+		var speed = 2000;
 		var translateZTerminus = 400;
 		var angle = 360 / dds.length * n;
 		var translateZ = 0;
